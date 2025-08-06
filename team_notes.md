@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-- Meeting every Monday
-at 10 AM
-=======
-- Meeting every Tuesday
->>>>>>> feature/change-day
+Team Collaboration Notes - Meeting every Tuesday at 10 AM
+
