@@ -1,1 +1,1 @@
-- Meeting every Monday
+- Meeting every Tuesday
